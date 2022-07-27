@@ -1,0 +1,11 @@
+.bg {
+    background: url('photo.jpg') no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.form-container {
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 20vh;
+}
